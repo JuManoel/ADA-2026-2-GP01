@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+open-instruct/
+# La caché sin comprimir pesa mucho; en el repo va resultados/cache_oraculo.json.gz
+cache_oraculo.json
+cache_evaluacion.json
+resultados/cache_oraculo.json

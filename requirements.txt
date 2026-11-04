@@ -1,0 +1,15 @@
+# Se ejecuta en Google Colab (Python 3.10+) con GPU T4.
+# Además: git clone https://github.com/allenai/open-instruct /content/open-instruct
+# y el modelo de spaCy: python -m spacy download en_core_web_sm
+torch
+transformers
+accelerate
+bitsandbytes>=0.46.1
+tqdm
+pandas
+matplotlib
+nltk
+spacy
+emoji
+langdetect
+immutabledict
